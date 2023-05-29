@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleCalculator</string>
+    <string name="advance_with_history">ADVANCE - WITH HISTORY</string>
+</resources>
